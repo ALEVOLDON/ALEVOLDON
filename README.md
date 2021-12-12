@@ -23,5 +23,18 @@ Recently I am interested in motion design (cinema 4d), 3D animation, libraries s
 
 https://blend.io/gtwy
 
-HTML | CSS | Bootsrap | JS | jQuery | PHP | MySQL | Git | Github | Gulp | Sass\
-Photoshop | Illustrator | After Effects | Figma | Sketchup | KeyShot | Ableton
+- Frontend
+
+HTML | CSS | Bootsrap | JS | jQuery | PHP | MySQL | Git | Github | Gulp | Sass
+
+- Design
+
+Photoshop | Illustrator | After Effects | Figma | 
+
+- 3d & visualization
+
+Fusion 360 | Sketchup | KeyShot | 
+
+- Sound Design
+
+Ableton | Reason | VST

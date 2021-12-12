@@ -21,5 +21,7 @@ I want to work remotely in a company, learn and develop, hone my skills and tran
 
 Recently I am interested in motion design (cinema 4d), 3D animation, libraries such as three.js and p5.js, Web Audio API. I have a lot of experience in sound design.
 
+https://blend.io/gtwy
+
 HTML | CSS | Bootsrap | JS | jQuery | PHP | MySQL | Git | Github | Gulp | Sass\
 Photoshop | Illustrator | After Effects | Figma | Sketchup | KeyShot | Ableton

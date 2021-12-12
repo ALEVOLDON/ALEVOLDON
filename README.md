@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a novice developer, I have no work experience yet. At the moment, I am developing a platform for searching for meetings.
+
+I want to work remotely in a company, learn and develop, hone my skills and transfer to others.
+
+Recently I am interested in motion design (cinema 4d), 3D animation, libraries such as three.js and p5.js, Web Audio API. I have a lot of experience in sound design.
+
+HTML | CSS | Bootsrap | JS | jQuery | PHP | MySQL | Git | Github | Gulp | Sass\
+Photoshop | Illustrator | After Effects | Figma | Sketchup | KeyShot | Ableton

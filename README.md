@@ -21,6 +21,8 @@ I want to work remotely in a company, learn and develop, hone my skills and tran
 
 Recently I am interested in motion design (cinema 4d), 3D animation, libraries such as three.js and p5.js, Web Audio API. I have a lot of experience in sound design.
 
+https://codepen.io/GTWY
+
 https://blend.io/gtwy
 
 - Frontend

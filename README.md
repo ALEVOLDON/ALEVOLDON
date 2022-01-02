@@ -35,7 +35,7 @@ Photoshop | Illustrator | After Effects | Figma |
 
 - 3d & visualization
 
-Fusion 360 | Sketchup | KeyShot | 
+Fusion 360 | Sketchup | KeyShot | V-ray
 
 - Sound Design
 

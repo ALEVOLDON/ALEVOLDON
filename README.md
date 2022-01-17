@@ -27,7 +27,7 @@ https://blend.io/gtwy
 
 - Frontend
 
-HTML | CSS | Bootsrap | JS | jQuery | PHP | MySQL | Git | Github | Gulp | Sass
+HTML | CSS | Bootsrap | JS | jQuery | p5js | threejs | PHP | MySQL | Git | Github | Gulp | Sass
 
 - Design
 

@@ -25,6 +25,8 @@ https://codepen.io/GTWY
 
 https://blend.io/gtwy
 
+https://dev.to/gateway
+
 https://t.me/G_T_W_Y
 
 - Frontend

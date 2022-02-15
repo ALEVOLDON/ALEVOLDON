@@ -25,6 +25,8 @@ https://codepen.io/GTWY
 
 https://blend.io/gtwy
 
+https://t.me/G_T_W_Y
+
 - Frontend
 
 HTML | CSS | Bootsrap | JS | jQuery | p5js | threejs | PHP | MySQL | Git | Github | Gulp | Sass

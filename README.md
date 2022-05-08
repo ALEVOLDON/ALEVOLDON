@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a novice developer, I have no work experience yet. At the moment, I am developing a platform for searching for meetings.
+I am a novice developer, I have no work experience yet. At the moment, I am developing a platform for artists!.
+
+https://jukrainian.netlify.app/
 
 I want to work remotely in a company, learn and develop, hone my skills and transfer to others.
 

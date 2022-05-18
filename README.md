@@ -37,7 +37,7 @@ HTML | CSS | Bootsrap | JS | jQuery | p5js | threejs | PHP | MySQL | Git | Githu
 
 - Design
 
-Photoshop | Illustrator | After Effects | Figma | 
+Photoshop | Illustrator | After Effects | Figma
 
 - 3d & visualization
 

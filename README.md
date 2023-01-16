@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a novice developer, I have no work experience yet. At the moment, I am developing a platform for artists!.
+I am a beginner developer with no work experience yet. Currently, I am working on creating a platform for artists.
 
 https://jukrainian.netlify.app/
 
-I want to work remotely in a company, learn and develop, hone my skills and transfer to others.
-
-Recently I am interested in motion design (cinema 4d), 3D animation, libraries such as three.js and p5.js, Web Audio API. I have a lot of experience in sound design.
+I am seeking a remote role as a Motion Designer in a creative agency where I can utilize my expertise in Cinema 4D, 3D animation, and libraries such as Three.js and p5.js. I have a strong background in sound design, as well as experience in web development and a Bachelor's degree in Graphic Design. I am excited to continue honing my skills and sharing my knowledge with the team.
 
 https://codepen.io/GTWY
 

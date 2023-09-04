@@ -31,7 +31,7 @@ https://t.me/G_T_W_Y
 
 - Frontend
 
-HTML | CSS | Bootsrap | JS | jQuery | p5js | threejs | PHP | MySQL | Git | Github | Gulp | Sass
+HTML | CSS | Bootsrap | JS | jQuery | Python | p5js | threejs | PHP | MySQL | Git | Github | Gulp | Sass
 
 - Design
 
@@ -39,8 +39,16 @@ Photoshop | Illustrator | After Effects | Figma
 
 - 3d & visualization
 
-Fusion 360 | Sketchup | KeyShot | V-ray
+Fusion 360 | Sketchup | KeyShot | V-ray | Enscape | Blender
 
-- Sound Design
+- Sound
 
 Ableton | Reason | VST
+
+- Video
+
+DaVinci Resolve
+
+- AI tools
+
+STABLE DIFFUSION | DALL·E 2 | Midjourney | Runway

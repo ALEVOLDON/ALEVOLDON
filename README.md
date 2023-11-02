@@ -47,8 +47,8 @@ Ableton | Reason | VST
 
 - Video
 
-DaVinci Resolve
+DaVinci Resolve | OBS Studio
 
 - AI tools
 
-STABLE DIFFUSION | DALL·E 2 | Midjourney | Runway
+STABLE DIFFUSION | DALL·E | Midjourney | Runway

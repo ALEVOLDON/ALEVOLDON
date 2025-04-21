@@ -1,54 +1,39 @@
-### Hi there 👋
+# Hi, I'm Vladimir — Developer, Artist, and Meaning Engineer
 
-<!--
-**ALEVOLDON/ALEVOLDON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a prompt engineer, vibe coder, and AI enthusiast with a rich background in frontend development, sound design, digital art, and creative technologies.
 
-Here are some ideas to get you started:
+**What I do:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Artist and designer turned developer with a creative mindset  
+- 💻 Frontend: React, Next.js, Tailwind, Web3, Git, REST, GraphQL  
+- ⚙️ Engineering background in design and manufacturing  
+- 🤖 Exploring LLMs, generative AI, and custom prompt systems  
+- 🎧 Creating NFT music and digital art on the blockchain  
+- ✍️ Writing, generating meaning, and training both my neurons and AI’s
 
-I am a beginner developer with no work experience yet. Currently, I am working on creating a platform for artists.
+**Currently working on:**
 
-https://j-mf.com/
+- AI-powered projects and tools  
+- Generative music and visual art  
+- A SoundCloud playlist aggregator using their API  
+- Branding for the company `g_t_w_y`
 
-I am seeking a remote role as a Motion Designer in a creative agency where I can utilize my expertise in Cinema 4D, 3D animation, and libraries such as Three.js and p5.js. I have a strong background in sound design, as well as experience in web development and a Bachelor's degree in Graphic Design. I am excited to continue honing my skills and sharing my knowledge with the team.
+**Find me elsewhere:**
 
-https://codepen.io/GTWY
+- [Website / Portfolio](https://j-mf.com)  
+- [CodePen](https://codepen.io/GTWY)  
+- [Blend.io](https://blend.io/gtwy)  
+- [Dev.to](https://dev.to/gateway)  
+- [Telegram](https://t.me/G_T_W_Y)  
+- [X / Twitter](https://twitter.com/AleVoldon)
 
-https://blend.io/gtwy
+---
 
-https://dev.to/gateway
+### GitHub Stats
 
-https://t.me/G_T_W_Y
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEVOLDON&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALEVOLDON&show_icons=true&hide_title=true)
 
-- Frontend
+---
 
-HTML | CSS | Bootsrap | JS | jQuery | Python | p5js | threejs | PHP | MySQL | Git | Github | Gulp | Sass
-
-- Design
-
-Photoshop | Illustrator | After Effects | Figma
-
-- 3d & visualization
-
-Fusion 360 | Sketchup | KeyShot | V-ray | Enscape | Blender
-
-- Sound
-
-Ableton | Reason | VST
-
-- Video
-
-DaVinci Resolve | OBS Studio
-
-- AI tools
-
-STABLE DIFFUSION | DALL·E | Midjourney | Runway
+> Life is short — code while you're alive.

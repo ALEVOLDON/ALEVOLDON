@@ -29,10 +29,10 @@ I'm a prompt engineer, vibe coder, and AI enthusiast with a rich background in f
 
 ---
 
-### GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEVOLDON&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALEVOLDON&show_icons=true&hide_title=true)
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALEVOLDON&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEVOLDON&layout=compact&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALEVOLDON&theme=dracula)
 
 ---
 

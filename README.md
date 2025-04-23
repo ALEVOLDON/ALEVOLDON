@@ -1,4 +1,6 @@
-<img src="https://via.placeholder.com/1200x200" alt="Profile Banner">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/banner.png" alt="GitHub Banner" />
+</p>
 
 
 # Hi, I'm Vladimir — Developer, Artist, and Meaning Engineer

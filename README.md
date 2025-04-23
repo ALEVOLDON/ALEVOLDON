@@ -1,3 +1,6 @@
+<img src="https://via.placeholder.com/1200x200" alt="Profile Banner">
+
+
 # Hi, I'm Vladimir — Developer, Artist, and Meaning Engineer
 
 I'm a prompt engineer, vibe coder, and AI enthusiast with a rich background in frontend development, sound design, digital art, and creative technologies.

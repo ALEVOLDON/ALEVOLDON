@@ -25,7 +25,7 @@ I'm a prompt engineer, vibe coder, and AI enthusiast with a rich background in f
 
 **Find me elsewhere:**
 
-- [Website / Portfolio](https://j-mf.com)  
+- [Website / Portfolio](https://alevoldon.netlify.app/)  
 - [CodePen](https://codepen.io/GTWY)  
 - [Blend.io](https://blend.io/gtwy)  
 - [Dev.to](https://dev.to/gateway)  

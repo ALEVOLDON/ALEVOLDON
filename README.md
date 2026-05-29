@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/banner.jpg" alt="GitHub Banner" style="border-radius: 12px; max-width: 100%;" />
 </p>
 
-# 🌌 Vladimir Rybalsky
 ### `Creative Technologist & Software Engineer`
 
 > Bridging the gap between creative technology, audio design, Web3, and Artificial Intelligence. 

@@ -9,12 +9,12 @@ I'm a prompt engineer, vibe coder, and AI enthusiast with a rich background in f
 
 **What I do:**
 
-- 🎨 Artist and designer turned developer with a creative mindset  
-- 💻 Frontend: React, Next.js, Tailwind, Web3, Git, REST, GraphQL  
-- ⚙️ Engineering background in design and manufacturing  
-- 🤖 Exploring LLMs, generative AI, and custom prompt systems  
-- 🎧 Creating NFT music and digital art on the blockchain  
-- ✍️ Writing, generating meaning, and training both my neurons and AI’s
+-  Artist and designer turned developer with a creative mindset  
+-  Frontend: React, Next.js, Tailwind, Web3, Git, REST, GraphQL  
+-  Engineering background in design and manufacturing  
+-  Exploring LLMs, generative AI, and custom prompt systems  
+-  Creating NFT music and digital art on the blockchain  
+-  Writing, generating meaning, and training both my neurons and AI’s
 
 **Currently working on:**
 

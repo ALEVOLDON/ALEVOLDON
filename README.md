@@ -22,25 +22,25 @@
 #### 🌐 Technologies & Tools
 <p align="left">
   <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-badges/main/badges/react-color.svg" height="30" alt="React" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="36" alt="React" />
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-badges/main/badges/nextjs-color.svg" height="30" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="36" alt="Next.js" />
   </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-badges/main/badges/tailwindcss-color.svg" height="30" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="36" alt="Tailwind CSS" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-badges/main/badges/javascript-color.svg" height="30" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="36" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-badges/main/badges/typescript-color.svg" height="30" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="36" alt="TypeScript" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-badges/main/badges/python-color.svg" height="30" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="36" alt="Python" />
   </a>
   <a href="https://threejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white" height="20" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="36" alt="Three.js" />
   </a>
 </p>
 
@@ -58,8 +58,8 @@
 ### 📡 Diagnostic Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALEVOLDON&show_icons=true&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEVOLDON&layout=compact&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ALEVOLDON&show_icons=true&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ALEVOLDON&layout=compact&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" alt="Top Languages" width="48%" />
 </p>
 
 ---

@@ -54,6 +54,28 @@
 
 ---
 
+### 🔗 External Nodes / Connection Est.
+
+<p align="center">
+  <a href="https://alevoldon.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-030106?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=030106" alt="Website" />
+  </a>
+  <a href="https://t.me/G_T_W_Y" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-030106?style=for-the-badge&logo=telegram&logoColor=22d3ee&labelColor=030106" alt="Telegram" />
+  </a>
+  <a href="https://soundcloud.com/g_t_w_y" target="_blank">
+    <img src="https://img.shields.io/badge/soundcloud-030106?style=for-the-badge&logo=soundcloud&logoColor=22d3ee&labelColor=030106" alt="SoundCloud" />
+  </a>
+  <a href="https://codepen.io/GTWY" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-030106?style=for-the-badge&logo=codepen&logoColor=22d3ee&labelColor=030106" alt="CodePen" />
+  </a>
+  <a href="https://x.com/AleVoldon" target="_blank">
+    <img src="https://img.shields.io/badge/twitter/x-030106?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=030106" alt="X" />
+  </a>
+</p>
+
+---
+
 ### 📡 Diagnostic Telemetry
 
 <p align="center">

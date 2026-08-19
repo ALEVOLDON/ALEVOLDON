@@ -8,25 +8,25 @@
 ### `Creative Technologist · AI Engineer · Creative Coder`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AGENTIC%20SYSTEMS-030106?style=for-the-badge&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="Focus: AI" />
-  <img src="https://img.shields.io/badge/GRAPHICS-WEBGL%20%26%20THREE.JS-030106?style=for-the-badge&logoColor=a855f7&labelColor=030106&color=a855f7" alt="Graphics: WebGL" />
-  <img src="https://img.shields.io/badge/AUDIO-WEB%20AUDIO%20%26%20DSP-030106?style=for-the-badge&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="Audio: DSP" />
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/focus_ai.svg" alt="Focus: AI & Agentic Systems" />
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/focus_graphics.svg" alt="Graphics: WebGL & Three.js" />
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/focus_audio.svg" alt="Audio: Web Audio & DSP" />
 </p>
 
 > *Building experimental software at the convergence of Artificial Intelligence, interactive 3D graphics, audio synthesis, and the modern web.*
 
 <p align="center">
   <a href="#-featured-systems--artifacts">
-    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20PROJECTS-22d3ee?style=for-the-badge&logoColor=030106&labelColor=22d3ee&color=22d3ee" alt="Explore Projects" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_explore.svg" alt="Explore Projects" />
   </a>
   <a href="https://t.me/G_T_W_Y" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/💬%20TELEGRAM-030106?style=for-the-badge&logo=telegram&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="Telegram" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_telegram.svg" alt="Telegram" />
   </a>
   <a href="https://alevoldon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-030106?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="Website" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_portfolio.svg" alt="Website" />
   </a>
   <a href="https://soundcloud.com/g_t_w_y" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/🎧%20SOUNDCLOUD-030106?style=for-the-badge&logo=soundcloud&logoColor=a855f7&labelColor=030106&color=a855f7" alt="SoundCloud" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_soundcloud.svg" alt="SoundCloud" />
   </a>
 </p>
 
@@ -226,19 +226,19 @@
 
 <p align="center">
   <a href="https://alevoldon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/🌐%20WEBSITE-030106?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="Website" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_website_footer.svg" alt="Website" />
   </a>
   <a href="https://t.me/G_T_W_Y" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/💬%20TELEGRAM-030106?style=for-the-badge&logo=telegram&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="Telegram" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_telegram_footer.svg" alt="Telegram" />
   </a>
   <a href="https://soundcloud.com/g_t_w_y" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/🎧%20SOUNDCLOUD-030106?style=for-the-badge&logo=soundcloud&logoColor=a855f7&labelColor=030106&color=a855f7" alt="SoundCloud" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_soundcloud_footer.svg" alt="SoundCloud" />
   </a>
   <a href="https://codepen.io/GTWY" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/⚡%20CODEPEN-030106?style=for-the-badge&logo=codepen&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="CodePen" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_codepen_footer.svg" alt="CodePen" />
   </a>
   <a href="https://x.com/AleVoldon" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/🐦%20TWITTER%20%2F%20X-030106?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=030106&color=22d3ee" alt="X" />
+    <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/btn_x_footer.svg" alt="X" />
   </a>
 </p>
 

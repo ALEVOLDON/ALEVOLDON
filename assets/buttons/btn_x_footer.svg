@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="34" viewBox="0 0 135 34" fill="none">
+  <defs>
+    <linearGradient id="g_btn_x_footer.svg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="135" height="34" rx="6" fill="url(#g_btn_x_footer.svg)"/>
+  <g transform="translate(14, 9.0)">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#030106" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4l16 16M20 4L4 20"/></svg>
+  </g>
+  <text x="76.5" y="21.5" fill="#030106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="800" text-anchor="middle" letter-spacing="1.2">TWITTER / X</text>
+</svg>

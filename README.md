@@ -9,50 +9,50 @@
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/projects.svg" width="20" height="20" valign="middle" alt="Projects" /> Featured Projects
 
-#### 🎧 [JMF RADIO](https://github.com/ALEVOLDON/jmf-radio)
+#### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/radio.svg" width="17" height="17" valign="middle" alt="JMF Radio" /> [JMF RADIO](https://github.com/ALEVOLDON/jmf-radio)
 Interactive browser-based radio and virtual 3D nightclub with real-time audio-reactive visuals.
 - **Stack:** `Three.js` · `Blender 5.2` · `Web Audio API` · `Node.js` · `GLSL`
 - **Links:** [Repository ↗](https://github.com/ALEVOLDON/jmf-radio)
 
-#### 🤖 [AI Developer Roadmap 2026](https://github.com/ALEVOLDON/full_roadmap_ai_enthusiast_2026)
+#### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/ai_roadmap.svg" width="17" height="17" valign="middle" alt="AI Roadmap" /> [AI Developer Roadmap 2026](https://github.com/ALEVOLDON/full_roadmap_ai_enthusiast_2026)
 Interactive, privacy-first guide and resource portal for building autonomous agents, MCP servers, and micro-SaaS.
 - **Stack:** `Next.js` · `Tailwind v4` · `PydanticAI` · `Vercel AI SDK` · `Agents`
 - **Links:** [Repository ↗](https://github.com/ALEVOLDON/full_roadmap_ai_enthusiast_2026)
 
-#### 🎛️ [Web Hero Modular](https://github.com/ALEVOLDON/web-hero-modular)
+#### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/synth.svg" width="17" height="17" valign="middle" alt="Web Hero Modular" /> [Web Hero Modular](https://github.com/ALEVOLDON/web-hero-modular)
 Real-time 3D Eurorack synthesizer hero experience & interactive audio lab with draggable patch cords and parametric knobs.
 - **Stack:** `Three.js` · `GSAP` · `Web Audio API` · `Blender Draco 3D`
 - **Links:** [Repository ↗](https://github.com/ALEVOLDON/web-hero-modular)
 
-#### ⚡ [Dump Assistant Bot](https://github.com/ALEVOLDON/Dump-Assistant-Bot)
+#### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/bot.svg" width="17" height="17" valign="middle" alt="Dump Assistant Bot" /> [Dump Assistant Bot](https://github.com/ALEVOLDON/Dump-Assistant-Bot)
 AI-powered Telegram bot for automated content workflows, link analysis, and community engagement with local LLM fallback.
 - **Stack:** `Node.js` · `Telegram Bot API` · `Ollama` · `OpenAI API`
 - **Links:** [Repository ↗](https://github.com/ALEVOLDON/Dump-Assistant-Bot)
 
-#### 🌌 [Modular Genesis](https://github.com/ALEVOLDON/Modular-Genesis)
+#### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/orbit.svg" width="17" height="17" valign="middle" alt="Modular Genesis" /> [Modular Genesis](https://github.com/ALEVOLDON/Modular-Genesis)
 Open knowledge hub and generative audio laboratory exploring modular synthesis, VCV Rack + Ableton workflows, and audiovisual system design.
 - **Stack:** `Astro` · `VCV Rack` · `Ableton Live` · `Audiovisual Systems`
 - **Links:** [Repository ↗](https://github.com/ALEVOLDON/Modular-Genesis)
 
-#### 🔮 [Point Cloud Surface](https://github.com/ALEVOLDON/point-cloud-surface)
+#### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/cube.svg" width="17" height="17" valign="middle" alt="Point Cloud Surface" /> [Point Cloud Surface](https://github.com/ALEVOLDON/point-cloud-surface)
 Procedural glowing 3D point-cloud and volumetric particle surface generated with Blender Geometry Nodes and Python.
 - **Stack:** `Python` · `Blender` · `Geometry Nodes` · `Procedural 3D`
 - **Links:** [Repository ↗](https://github.com/ALEVOLDON/point-cloud-surface)
 
 ---
 
-### 🧠 Current Focus
+### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/focus.svg" width="20" height="20" valign="middle" alt="Focus" /> Current Focus
 
-- **AI-Native & Agentic Systems:** Architecting LLM toolchains, MCP (Model Context Protocol) servers, and autonomous agent pipelines.
-- **Interactive 3D & WebGL:** Creating real-time volumetric scenes, particle shaders (GLSL), and Three.js canvas environments.
-- **Web Audio & Generative Sound:** Developing browser synthesizers, DSP audio-reactive visualizers, and modular audio routing.
-- **Modern Web Engineering:** Building fast, responsive user interfaces with React, Next.js, TypeScript, and Tailwind CSS.
+- <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/cpu.svg" width="15" height="15" valign="middle" alt="AI" /> **AI-Native & Agentic Systems:** Architecting LLM toolchains, MCP (Model Context Protocol) servers, and autonomous agent pipelines.
+- <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/cube.svg" width="15" height="15" valign="middle" alt="3D" /> **Interactive 3D & WebGL:** Creating real-time volumetric scenes, particle shaders (GLSL), and Three.js canvas environments.
+- <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/synth.svg" width="15" height="15" valign="middle" alt="Audio" /> **Web Audio & Generative Sound:** Developing browser synthesizers, DSP audio-reactive visualizers, and modular audio routing.
+- <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/terminal.svg" width="15" height="15" valign="middle" alt="Web" /> **Modern Web Engineering:** Building fast, responsive user interfaces with React, Next.js, TypeScript, and Tailwind CSS.
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
+### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/stack.svg" width="20" height="20" valign="middle" alt="Stack" /> Tech Stack & Ecosystem
 
 ```text
 [ AI & Agents      ]   LLMs • Prompt Systems • MCP • Tool Calling • Ollama
@@ -61,7 +61,7 @@ Procedural glowing 3D point-cloud and volumetric particle surface generated with
 [ Core & Backend   ]   Python • Node.js • FastAPI • Express • Git • CI/CD
 ```
 
-#### 🌐 Technologies & Tools
+#### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/terminal.svg" width="16" height="16" valign="middle" alt="Tools" /> Technologies & Tools
 <p align="left">
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" alt="React" />
@@ -100,7 +100,7 @@ Procedural glowing 3D point-cloud and volumetric particle surface generated with
 
 ---
 
-### 🌐 Connect
+### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/connect.svg" width="20" height="20" valign="middle" alt="Connect" /> Connect
 
 <p align="center">
   <a href="https://alevoldon.com" target="_blank" rel="noreferrer">
@@ -122,7 +122,7 @@ Procedural glowing 3D point-cloud and volumetric particle surface generated with
 
 ---
 
-### 📊 Activity & Stats
+### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/stats.svg" width="20" height="20" valign="middle" alt="Stats" /> Activity & Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ALEVOLDON&show_icons=true&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" alt="GitHub Stats" width="48%" />

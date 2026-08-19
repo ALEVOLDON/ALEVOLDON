@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/banner.jpg" alt="GitHub Banner" style="border-radius: 12px; max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/header.jpg" alt="Creative Technologist & AI Engineer" style="border-radius: 12px; max-width: 100%;" />
 </p>
 
 ### `Creative Technologist · AI Engineer · Creative Coder`

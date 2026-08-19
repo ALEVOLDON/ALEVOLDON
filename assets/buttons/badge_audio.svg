@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="175" height="30" viewBox="0 0 175 30" fill="none">
   <defs>
-    <linearGradient id="pill_focus_audio_v2_svg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="pill_badge_audio_svg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22d3ee"/>
       <stop offset="100%" stop-color="#a855f7"/>
     </linearGradient>
   </defs>
-  <rect width="175" height="30" rx="6" fill="url(#pill_focus_audio_v2_svg)"/>
+  <rect width="175" height="30" rx="6" fill="url(#pill_badge_audio_svg)"/>
   <g transform="translate(12, 7.5)">
     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#030106" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="4" y1="21" y2="14"/><line x1="4" x2="4" y1="10" y2="3"/><line x1="12" x2="12" y1="21" y2="12"/><line x1="12" x2="12" y1="8" y2="3"/><line x1="20" x2="20" y1="21" y2="16"/><line x1="20" x2="20" y1="12" y2="3"/><line x1="1" x2="7" y1="14" y2="14"/><line x1="9" x2="15" y1="8" y2="8"/><line x1="17" x2="23" y1="16" y2="16"/></svg>
   </g>

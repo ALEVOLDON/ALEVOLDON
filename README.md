@@ -8,9 +8,9 @@
 ### `Creative Technologist · AI Engineer · Creative Coder`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/focus_ai_v2.svg" alt="Focus: AI & Agentic Systems" />
-  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/focus_graphics_v2.svg" alt="Graphics: WebGL & Three.js" />
-  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/focus_audio_v2.svg" alt="Audio: Web Audio & DSP" />
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/badge_ai.svg" alt="Focus: AI & Agentic Systems" />
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/badge_graphics.svg" alt="Graphics: WebGL & Three.js" />
+  <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/buttons/badge_audio.svg" alt="Audio: Web Audio & DSP" />
 </p>
 
 > *Building experimental software at the convergence of Artificial Intelligence, interactive 3D graphics, audio synthesis, and the modern web.*

@@ -4,7 +4,6 @@
 
 <div align="center">
 
-# `VLADIMIR RYBALSKY`
 ### `Creative Technologist · AI Engineer · Creative Coder`
 
 <p align="center">

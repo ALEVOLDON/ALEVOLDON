@@ -166,41 +166,24 @@
 [ Core & Backend   ]   Python • Node.js • FastAPI • Express • Git • CI/CD
 ```
 
-<p align="left">
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" alt="React" />
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32" alt="Next.js" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" />
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="32" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32" alt="JavaScript" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32" alt="Python" />
-  </a>
-  <a href="https://threejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="32" alt="Three.js" />
-  </a>
-  <a href="https://www.blender.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" height="32" alt="Blender" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="32" alt="Node.js" />
-  </a>
-  <a href="https://astro.build" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" height="32" alt="Astro" />
-  </a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="32" alt="FastAPI" />
-  </a>
-</p>
+<table width="100%">
+  <tr align="center">
+    <td width="16.6%"><a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="React" /></a></td>
+    <td width="16.6%"><a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" alt="Next.js" /></a></td>
+    <td width="16.6%"><a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" /></a></td>
+    <td width="16.6%"><a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript" /></a></td>
+    <td width="16.6%"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" /></a></td>
+    <td width="16.6%"><a href="https://astro.build" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" height="28" alt="Astro" /></a></td>
+  </tr>
+  <tr align="center">
+    <td width="16.6%"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" /></a></td>
+    <td width="16.6%"><a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI" /></a></td>
+    <td width="16.6%"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" /></a></td>
+    <td width="16.6%"><a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="28" alt="Three.js" /></a></td>
+    <td width="16.6%"><a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" height="28" alt="Blender" /></a></td>
+    <td width="16.6%"><a href="https://greensock.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="28" alt="GSAP" /></a></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/divider.svg" width="100%" height="2" alt="Divider" />

@@ -192,8 +192,8 @@
 ### <img src="https://raw.githubusercontent.com/ALEVOLDON/ALEVOLDON/main/assets/icons/stats.svg" width="20" height="20" valign="middle" alt="Stats" /> Activity & Diagnostics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ALEVOLDON&show_icons=true&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ALEVOLDON&layout=compact&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ALEVOLDON&show_icons=true&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" height="185" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ALEVOLDON&layout=compact&theme=tokyonight&bg_color=030106&title_color=22d3ee&icon_color=a855f7&text_color=9ca3af&border_color=22d3ee33" height="185" alt="Top Languages" />
 </p>
 
 <p align="center">

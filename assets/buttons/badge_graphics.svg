@@ -1,13 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="185" height="30" viewBox="0 0 185 30" fill="none">
   <defs>
-    <linearGradient id="pill_badge_graphics_svg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#a855f7"/>
+    <linearGradient id="silver_badge_badge_graphics_svg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="35%" stop-color="#e2e8f0"/>
+      <stop offset="70%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#94a3b8"/>
     </linearGradient>
   </defs>
-  <rect width="185" height="30" rx="6" fill="url(#pill_badge_graphics_svg)"/>
+  <rect width="185" height="30" rx="6" fill="url(#silver_badge_badge_graphics_svg)" stroke="rgba(255,255,255,0.6)" stroke-width="0.75"/>
   <g transform="translate(12, 7.5)">
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#030106" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.9 6.32a2 2 0 0 0-.9 1.69v8a2 2 0 0 0 .9 1.68l6.05 4.07a2 2 0 0 0 2.17.05l9.95-4.03a2 2 0 0 0 .95-1.69v-8a2 2 0 0 0-.9-1.69Z"/><path d="M12 22V12"/><path d="m2.5 7 9.5 5 9.5-5"/></svg>
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#030712" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.9 6.32a2 2 0 0 0-.9 1.69v8a2 2 0 0 0 .9 1.68l6.05 4.07a2 2 0 0 0 2.17.05l9.95-4.03a2 2 0 0 0 .95-1.69v-8a2 2 0 0 0-.9-1.69Z"/><path d="M12 22V12"/><path d="m2.5 7 9.5 5 9.5-5"/></svg>
   </g>
-  <text x="100.0" y="19.0" fill="#030106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="800" text-anchor="middle" letter-spacing="1.2">WEBGL &amp; THREE.JS</text>
+  <text x="100.0" y="19.0" fill="#030712" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="800" text-anchor="middle" letter-spacing="1.2">WEBGL &amp; THREE.JS</text>
 </svg>

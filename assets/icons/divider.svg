@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2" viewBox="0 0 800 2" fill="none">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0" />
-      <stop offset="20%" stop-color="#22d3ee" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#a855f7" stop-opacity="1" />
-      <stop offset="80%" stop-color="#22d3ee" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0" />
+    <linearGradient id="silver_divider_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity="0" />
+      <stop offset="20%" stop-color="#94a3b8" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.95" />
+      <stop offset="80%" stop-color="#94a3b8" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#e2e8f0" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <rect width="800" height="2" fill="url(#grad)" />
+  <rect width="800" height="2" fill="url(#silver_divider_grad)" />
 </svg>
